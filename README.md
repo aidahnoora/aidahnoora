@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aidahnoora&label=Profile%20views&color=0e75b6&style=flat" alt="aidahnoora" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Flutter**
+- 🌱 I’m currently learning **Laravel, Flutter, Vue.js**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
